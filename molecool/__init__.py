@@ -1,7 +1,11 @@
-"""a Python package to visualize molecules given theis cartesian coordinates"""
+"""a Python package to visualize molecules given their cartesian coordinates"""
 
 # Add imports here
-from .functions import *
+from .functions import canvas
 
 
-from ._version import __version__
+from ._version import __version__ 
+
+# git- version control system
+
+# git hub is a website for collaboration 
